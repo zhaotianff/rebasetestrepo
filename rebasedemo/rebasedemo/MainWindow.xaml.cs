@@ -27,7 +27,7 @@ namespace rebasedemo
             //commit 1
             //commit 2
             //commit 3
-            int a = 1;
+            int a = 0;
         }
     }
 }

@@ -28,6 +28,7 @@ namespace rebasedemo
             //commit 2
             //commit 3
             int a = 0;
+            int a = 3;
         }
     }
 }

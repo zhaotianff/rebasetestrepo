@@ -16,6 +16,8 @@ namespace rebasedemo
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
+
+            MessageBox.Show(e.Args[0]);
         }
     }
 }
